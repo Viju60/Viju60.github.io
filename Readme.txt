@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+👀 Just Try Kr Rha Hu 
 
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Vijay
+Template URL: vijukage.me
+Developer : Viju
+
